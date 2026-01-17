@@ -19,8 +19,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Mayela Fosado¹
-##### Max Orozco, Fer Rendón, Ximena Plascencia
+### Mayela Fosado
 
 
 
